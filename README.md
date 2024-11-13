@@ -44,5 +44,5 @@ Follow these steps to get your Notes App up and running locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/Himanshu8303/notes-app.git
 cd notes-app
