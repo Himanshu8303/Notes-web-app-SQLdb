@@ -1,4 +1,4 @@
-# Notes App
+# Notes Web App
 
 A simple Notes App built using React.js on the frontend and Node.js with MySQL as the backend. This app allows users to create and delete notes, which are stored in a MySQL database. 
 
